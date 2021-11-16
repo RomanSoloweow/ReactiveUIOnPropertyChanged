@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "+uSW8FcW7ZbPoc7V2FMyIvHz4zgWjfc0TNmivZ31RRkwg0aiJAqsJ3lMsA0WVNZlXhchWqk+7P5yPuQhleHEwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\roman\\GitHub\\ReactiveUIOnPropertyChanged\\ReactiveUIOnPropertyChanged\\ReactiveUIOnPropertyChanged.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\roman\\.nuget\\packages\\dynamicdata\\7.4.3\\dynamicdata.7.4.3.nupkg.sha512",
+    "C:\\Users\\roman\\.nuget\\packages\\fody\\6.6.0\\fody.6.6.0.nupkg.sha512",
+    "C:\\Users\\roman\\.nuget\\packages\\reactiveui\\16.3.10\\reactiveui.16.3.10.nupkg.sha512",
+    "C:\\Users\\roman\\.nuget\\packages\\reactiveui.fody\\16.3.10\\reactiveui.fody.16.3.10.nupkg.sha512",
+    "C:\\Users\\roman\\.nuget\\packages\\reactiveui.validation\\2.2.1\\reactiveui.validation.2.2.1.nupkg.sha512",
+    "C:\\Users\\roman\\.nuget\\packages\\splat\\13.1.42\\splat.13.1.42.nupkg.sha512",
+    "C:\\Users\\roman\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
